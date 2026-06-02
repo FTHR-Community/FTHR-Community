@@ -1,31 +1,55 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FTHR-Community/FTHR-Community/main/fthr_logo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/FTHR-Community/FTHR-Community/main/fthr_logo.png" width="100" />
 
-  <h2>FTHR Community</h2>
+  <h1>FTHR Community</h1>
+  <p><strong>Open-source tools for gamers who want control over their own clips.</strong></p>
 
-  <p>Open-source tools for gamers who want control over their own clips.</p>
-
-  [![FTHR Clips](https://img.shields.io/badge/FTHR_Clips-1.0.0--alpha-pink?style=for-the-badge&logo=github)](https://github.com/FTHR-Community/FTHR-Clips)
-  [![Platform](https://img.shields.io/badge/platform-Linux_%7C_Windows-lightgrey?style=for-the-badge)](https://github.com/FTHR-Community/FTHR-Clips/releases)
-  [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://github.com/FTHR-Community/FTHR-Clips/blob/master/LICENSE)
+  <img src="https://img.shields.io/badge/status-coming%20soon-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
 
 </div>
 
 ---
 
-### What we build
+<div align="center">
 
-**[FTHR Clips](https://github.com/FTHR-Community/FTHR-Clips)** — Instant replay for Linux (Wayland) and Windows.
-Hit a hotkey, save the last 30 seconds. No cloud. No accounts. No bullshit.
+## FTHR Clips — releasing soon
 
-- GPU-accelerated capture (NVENC / AMF / QSV / x264)
-- Multiband audio with per-app routing
-- Watermark, auto-crop, webcam overlay
-- Game detection + anti-cheat pause
-- One-click installer on Windows, AppImage on Linux
+*Instant replay for Linux and Windows.*
+*Hit a hotkey, save the last 30 seconds. No cloud. No accounts.*
+
+</div>
+
+---
+
+### What's coming
+
+| Feature | |
+|---------|---|
+| GPU-accelerated background recording | NVENC / AMF / QSV / x264 |
+| Instant replay via hotkey | Save the last N seconds as a clip |
+| Multiband audio | Per-app routing — Game, Discord, Browser, Mic |
+| Post-processing | Watermark, auto-crop, webcam overlay |
+| Game detection | Auto-switches capture focus when you launch a game |
+| Presets | Save and load full configurations |
+| Clip browser | Browse, trim and export your clips |
+| Zero dependencies for the end user | AppImage on Linux, one-click installer on Windows |
 
 ---
 
 <div align="center">
-  <sub>MIT License · Open to contributions · <a href="https://github.com/FTHR-Community/FTHR-Clips/issues">Report a bug</a></sub>
+
+### Stay updated
+
+⭐ **Watch the repo** to get notified on release day
+
+[![Watch FTHR Clips](https://img.shields.io/badge/Watch-FTHR--Clips-pink?style=for-the-badge&logo=github)](https://github.com/FTHR-Community/FTHR-Clips)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>MIT License · Built in public · <a href="https://github.com/FTHR-Community/FTHR-Clips/releases">Releases</a></sub>
 </div>
