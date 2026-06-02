@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/FTHR-Community/FTHR-Community/main/fthr_logo.png" width="100" />
 
   <h1>FTHR Community</h1>
-  <p><strong>Open-source tools for gamers who want control over their own clips.</strong></p>
+  <p>Hit a key. Save the moment.<br/>Instant replay. No strings attached.<br/>Record everything. Share nothing you don't want to.</p>
 
   <img src="https://img.shields.io/badge/status-coming%20soon-pink?style=for-the-badge" />
   <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey?style=for-the-badge" />
