@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FTHR-Community/FTHR-Community/main/fthr_logo.png" width="100" />
+<img src="https://raw.githubusercontent.com/FTHR-Community/FTHR-Community/main/fthr_logo.png" width="100" />
 
-  <h1>FTHR Community</h1>
-  <p>Hit a key. Save the moment.<br/>Instant replay. No strings attached.<br/>Record everything. Share nothing you don't want to.</p>
+<h1>FTHR Community</h1>
+<p>Hit a key. Save the moment.<br/>Instant replay. No strings attached.<br/>Record everything. Share nothing you don't want to.</p>
 
-  <img src="https://img.shields.io/badge/status-coming%20soon-pink?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/status-coming%20soon-pink?style=for-the-badge" />
+<img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
 
 </div>
 
@@ -51,5 +51,15 @@
 ---
 
 <div align="center">
-  <sub>MIT License · Built in public · <a href="https://github.com/FTHR-Community/FTHR-Clips/releases">Releases</a></sub>
+
+### Who's behind FTHR
+
+Designed & developed by **[Tom · @RaZeNMaster](https://github.com/RaZeNMaster)**
+
+</div>
+
+---
+
+<div align="center">
+<sub>MIT License · Built in public · <a href="https://github.com/FTHR-Community/FTHR-Clips/releases">Releases</a></sub>
 </div>
