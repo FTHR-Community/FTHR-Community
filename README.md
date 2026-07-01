@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/status-coming%20soon-pink?style=for-the-badge" />
 <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey?style=for-the-badge" />
 <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
+<a href="https://fthrclips.com"><img src="https://img.shields.io/badge/website-fthrclips.com-6C5CE7?style=for-the-badge" /></a>
 
 </div>
 
